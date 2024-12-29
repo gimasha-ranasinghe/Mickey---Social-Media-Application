@@ -5,6 +5,9 @@
   padding: 10px 20px;
   height: 30px;
   border-bottom: 1px solid #f7ce02;
+  position: sticky;
+  top: 0;
+  background-color: white;
 
   .navbar_left {
     display: flex;
